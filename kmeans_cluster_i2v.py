@@ -8,7 +8,7 @@
 
 """
 File: test_kmeans.py
-Author: huangshudong(huangshudong@oppo.com)
+Author: cengyangzhou@oppo.com
 Date: 2020/01/15 11:38:49
 """
 
