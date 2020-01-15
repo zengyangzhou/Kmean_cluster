@@ -71,3 +71,7 @@ cluster_centroids_7_v150.npy：上一步生成的每一类中心的向量表示
 excel_cluster_7_v150.xlsx：生成的查看分类效果.xlsx文件
 sentence_embedding_list_7.npy：第三步生成的句向量文件
 cluster_labels_7_v150.npy：上一步生成的每一个Query分类标签的文件
+
+注意：kmeans的输入向量为以下形式：
+X = np.array([[1, 2], [1, 4], [1, 0],
+               [10, 2], [10, 4], [10, 0]])
